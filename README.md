@@ -78,6 +78,7 @@ If you use any LLMs, take into account the [EasyBuild AI policy](https://docs.ea
 
 - https://emudhra.we-have-a-problem.com
 - https://bugzilla.mozilla.org/show_bug.cgi?id=2083449
+- https://access.redhat.com/security/vulnerabilities/RHSB-2026-012
 - https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html
 - https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576
 - https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312
